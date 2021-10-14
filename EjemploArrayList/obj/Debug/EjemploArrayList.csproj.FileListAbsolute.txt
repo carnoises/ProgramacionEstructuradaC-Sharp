@@ -1,0 +1,6 @@
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploArrayList\obj\Debug\EjemploArrayList.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploArrayList\bin\Debug\EjemploArrayList.exe.config
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploArrayList\bin\Debug\EjemploArrayList.exe
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploArrayList\bin\Debug\EjemploArrayList.pdb
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploArrayList\obj\Debug\EjemploArrayList.exe
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploArrayList\obj\Debug\EjemploArrayList.pdb
