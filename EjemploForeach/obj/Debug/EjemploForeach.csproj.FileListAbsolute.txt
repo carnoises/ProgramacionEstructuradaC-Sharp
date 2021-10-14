@@ -1,0 +1,7 @@
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploForeach\bin\Debug\EjemploForeach.exe.config
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploForeach\bin\Debug\EjemploForeach.exe
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploForeach\bin\Debug\EjemploForeach.pdb
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploForeach\obj\Debug\EjemploForeach.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploForeach\obj\Debug\EjemploForeach.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploForeach\obj\Debug\EjemploForeach.exe
+D:\Documents\GitHub\ProgramacionEstructuradaC-Sharp\EjemploForeach\obj\Debug\EjemploForeach.pdb
